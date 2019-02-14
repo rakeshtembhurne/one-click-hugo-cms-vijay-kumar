@@ -1,27 +1,22 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+title: Financial Planning for Tomorrow, Today
+date: 2017-01-04T15:04:10.000Z
+description: >-
+  Our Planning Services specialize in various areas of financial planning, including retirement planning, education funding, estate planning and insurance services.
+image: /img/blog-chemex.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## Personal Financial Analysis
+We believe the best way to plan for the future is to assess the present as thoroughly and accurately as possible. Weoffer clients complete financial analysis on retirement planning, education funding, estate planning, retirement plan distributions, asset allocation and debt management.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## Funding a Child’s Education
+College costs are rising. Are you prepared to fund your child's education? we help clarify your education goals and identify your potential costs. Once you know what your needs are, we can provide you with a variety of education funding options, including Equity, Debt, Gold, Mutual Funds and more.
 
-## What the updates mean to you
+## Planning for a Comfortable Retirement
+The hurdles to a secure retirement are well known: inflation, taxes and increased life expectancies, to name a few. But we can help you create a plan and identify investments aimed at reaching your goals-investments like retirement plans for business owners as well as salaried employees. You can also get help on taking appropriate payout amounts from your retirement accounts while reducing taxes.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+## Preserving and Transferring Your Wealth
+Careful estate planning could help ensure that the wealth you worked so hard to accumulate will be preserved and distributed to your heirs according to your wishes. Together with our advanced planning specialists, we can provide you with a custom analysis that illustrates a broad range of estate planning vehicles and high-net-worth financial planning strategies.
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## Insurance Services for Preserving Your Wealth
+We can help preserve the assets that you have spent years accumulating. We offer life and long term care insurance and can also provide a comprehensive analysis and review of your needs.
