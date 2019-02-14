@@ -1,7 +1,7 @@
 ---
 title: Develop a long term client relationship
 subtitle: Provide personalized services on a sustainable basis
-image: /img/home-jumbotron.jpg
+image: /img/vijay-kumar.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
