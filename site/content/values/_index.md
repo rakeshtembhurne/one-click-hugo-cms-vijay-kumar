@@ -1,6 +1,6 @@
 ---
 title: About us
-image: /img/about-jumbotron.jpg
+image: /img/about-us.jpg
 values:
   - text: >-
       Working  on building a strong customer relationship in a bid to make their
