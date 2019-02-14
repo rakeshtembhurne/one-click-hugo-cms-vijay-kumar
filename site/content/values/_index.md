@@ -1,5 +1,5 @@
 ---
-title: About
+title: About us
 image: /img/about-jumbotron.jpg
 values:
   - text: >-
@@ -21,5 +21,13 @@ values:
 
       Our vision is to develop a long term client relationship hence provide
       personalized services on a sustainable basis.
+  - heading: Our Mission
+    text: >-
+      "To become the most admired & trusted financial education company in the
+      world”
+  - heading: Our Vision
+    text: >-
+      “To help people buy right financial products through personalized free
+      financial education”
 ---
 
