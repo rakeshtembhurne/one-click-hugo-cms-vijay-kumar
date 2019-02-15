@@ -1,10 +1,5 @@
 ---
 title: "team"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
 <h1 class="db w4 b center lh-title mb4 br0">Meet our core team</h1>
