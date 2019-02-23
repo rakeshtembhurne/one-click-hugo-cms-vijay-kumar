@@ -1,6 +1,6 @@
 ---
-title: Develop a long term client relationship
-subtitle: Provide personalized services on a sustainable basis
+title: Get Proper advices for your financial needs
+subtitle: All your financial needs and problems will be solved
 image: /img/vijay-kumar.jpg
 blurb:
   heading:
