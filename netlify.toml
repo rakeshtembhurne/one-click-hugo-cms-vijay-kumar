@@ -6,6 +6,3 @@
 
 [context.deploy-preview]
   command = "yarn build-preview"
-
-# Redirect default Netlify subdomain to primary domain
-https://zeromileedutech.netlify.com/* https://zeromileedutech.com/:splat 301!
