@@ -916,3 +916,11 @@
   .mhn2-l { margin-left: -var(--spacing-small); margin-right: -var(--spacing-small); }
   .mhn3-l { margin-left: -var(--spacing-medium); margin-right: -var(--spacing-medium); }
 }
+.footer-menu li {
+  display: inline;
+  padding: 2px 25px 2px 25px;
+  margin: 0 25px 0 0;
+}
+.newcss {
+  margin-left: 214px;
+}
