@@ -1,20 +1,35 @@
 <nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
-
 	<!-- Logo -->
 	<a href="/" class="pa3 db mr4 h-100">
 		<h1 class="br0 db mb0">YN Vijay Kumar</h1>
 	</a>
 
+	<div class="topnav" id="myTopnav">
 	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
+		<!-- <ul class="flex b grey-3"> -->
 
-		<li><a href="/aboutus" class="pa3 no-underline db">About us</a></li>
+			<a href="/aboutus" class="pa3 no-underline db">About us</a>
 
-		<li><a href="/services" class="pa3 no-underline db">Our Services</a></li>
+			<a href="/services" class="pa3 no-underline db">Our Services</a>
 
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+			<a href="/contact" class="pa3 no-underline db">Contact</a>
 
-		<li><a href="/team" class="pa3 no-underline db">Team</a></li>
-	</ul>
+			<a href="/team" class="pa3 no-underline db">Team</a>
+			<a href="javascript:void(0);" class="icon pa3 no-underline db" onclick="myFunction()">
+				<i class="fa fa-bars"></i>
+			</a>
+		</ul>
+	</div>
 
 </nav>
+<script>
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+	function myFunction() {
+		var x = document.getElementById("myTopnav");
+		if (x.className === "topnav") {
+			x.className += " responsive";
+		} else {
+			x.className = "topnav";
+		}
+	}	
+</script>
